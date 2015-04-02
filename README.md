@@ -1,2 +1,6 @@
-# google-homepage
-google home page with help of HTML and CSS
+The Odin Project
+===
+HTML/CSS Project: Google Homepage
+---
+
+[Project link](http://www.theodinproject.com/web-development-101/html-css "Google homepage")
